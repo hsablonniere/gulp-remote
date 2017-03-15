@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/phi-jp/gulp-remote/issues"
   },
-  "homepage": "https://github.com/phi-jp/gulp-remote#readme"
+  "homepage": "https://github.com/phi-jp/gulp-remote#readme",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1",
+    "request": "^2.81.0",
+    "through2": "^2.0.3",
+    "vinyl": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp-concat": "^2.6.1"
+  }
 }

@@ -1,0 +1,19 @@
+{
+  "name": "gulp-remote",
+  "version": "0.0.1",
+  "description": "get remote file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phi-jp/gulp-remote.git"
+  },
+  "author": "phi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phi-jp/gulp-remote/issues"
+  },
+  "homepage": "https://github.com/phi-jp/gulp-remote#readme"
+}
